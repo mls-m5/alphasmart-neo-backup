@@ -1,0 +1,8 @@
+<form>
+CINQUAIN – "Five Line Poem"
+[ ] Line 1 - One word that identified the subject of the poem.
+[ ] Line 2 - Two words to describe the subject.
+[ ] Line 3 - Three words to describe an action of the subject. This means what the subject does or what is done to the subject.
+[ ] Line 4 - Four words that express an emotional response toward the subject.
+[ ] Line 5 - A one-word synonym of the subject.
+</form>

@@ -1,0 +1,26 @@
+<form>
+PROOF READING GUIDELINES
+HEADING
+[ ] Name is entered.
+[ ] Date is entered.
+[ ] Title is entered.
+
+CAPITALIZATION
+[ ] Every sentence begins with a capital letter.
+[ ] All proper nouns begin with capital letter.
+[ ] Titles are capitalized correctly.
+
+PUNCTUATION
+[ ] All sentences end with a ., ?, or !
+[ ] Commas are used to separate items in a list.
+[ ] Commas are used at the end of a prepositional phrase.
+
+SPELLING
+[ ] Very few, if any, spelling errors noticed.
+
+WRITING
+[ ] Main idea is clearly stated.
+[ ] Writing includes interesting details.
+[ ] Words vary from usual to unusual.
+[ ] Sentences vary from long to short, questions to statements, and statements to exclamations.
+</form>

@@ -1,0 +1,14 @@
+<form>
+BIOPOEM
+[ ] Line 1 - First name.
+[ ] Line 2 - Four adjectives that describe the person.
+[ ] Line 3 - Son or daughter of . . .
+[ ] Line 4 - Lover of (this 3 different things).
+[ ] Line 5 - Who feels (three feelings).
+[ ] Line 6 - Who needs (three different things.)
+[ ] Line 7 - Who gives (three different things).
+[ ] Line 8 - Who fears (three different things).
+[ ] Line 9 - Who would like to see (three different things).
+[ ] Line 10 - Who lives (identify city).
+[ ] Line 11 - Last name.
+</form>

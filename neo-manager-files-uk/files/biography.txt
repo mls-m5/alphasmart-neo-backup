@@ -1,0 +1,23 @@
+<form>
+BIOGRAPHY RUBRIC
+CHARACTERIZATION:
+[ ] Selected character is interesting.
+[ ] Selected character has contradictions or surprises in his or her personality.
+[ ] The author uses visual imagery such as: size, shape, body language, and style of dress.
+
+INCIDENTS:
+[ ] Incidents are specific and not generalized events. 
+[ ] Each incident should help show character traits.
+[ ] Incidents are reported in a logic sequence.
+
+SIGNIFICANCE:
+[ ] The character is shown as an important person in the writer's life. 
+[ ] Specific events are used to illustrate that importance.
+
+VOICE AND TONE:
+[ ] The author's choice of words demonstrates his or her attitude about the character.
+[ ] The author includes intriguing details and personal reflections.
+
+ORGANIZATION:
+[ ] The story is told by weaving incidents, description and significance throughout.
+</form>

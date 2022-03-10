@@ -1,0 +1,21 @@
+<form>
+COLLABORATION GUIDELINES
+Collaboration is teamwork.  It consists of contributions from individuals to assure the achievement of the goals of the group.
+
+CONTRIBUTION:
+[ ] I collected a great deal of information relevant to the topic.
+[ ] I shared relevant information with my group.
+[ ] I had all information available each time our group met.
+
+ACCOUNTABILITY:
+[ ] I performed all duties of my role on the team.
+[ ] I participated and shared relevant information at the appropriate time.
+[ ] I completed my work without having to be reminded by others on the team.
+
+COMPROMISE:
+[ ] I listened and spoke at the necessary and appropriate times.
+[ ] I never argued with my teammates.
+[ ] I always made the effort to help my team reach a fair decision.
+[ ] I was cooperative and considered all views expressed in my group.
+</form>
+

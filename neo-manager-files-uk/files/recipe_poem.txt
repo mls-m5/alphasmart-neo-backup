@@ -1,0 +1,8 @@
+<form>
+RECIPE POEM
+[ ] The title followed this format: "A Recipe for ___"
+[ ] The title identified the topic.
+[ ] The poet used "recipe words" such as "take, add, mix, bake, and scramble" to begin each new line, except the last line.
+[ ] The poet listed all the important properties of the topic.
+[ ] The last line concluded with poem with more "recipe words" such as "And now you've made. . . " or "And now you have a . . ."
+</form>

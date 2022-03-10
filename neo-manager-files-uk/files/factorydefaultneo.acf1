@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ASMConfig>
+
+  <System>
+    <DeleteExtraApplets>Yes</DeleteExtraApplets>
+    
+    <TargetDevice>
+      <TargetRange>1-30</TargetRange>
+      <IncludeInSendList>Yes</IncludeInSendList>
+    </TargetDevice>
+  </System>
+ 
+  <Applet>
+    <AppID>40960</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>4</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>AlphaWord Plus UK</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40963</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>KAZ Typing Tutor</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40967</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>55</BuildRevision>
+    <Name>Control Panel UK</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40966</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>49</BuildRevision>
+    <Name>Beamer</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40962</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>50</BuildRevision>
+    <Name>Calculator</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40999</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>5</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Text2Speech Updater UK</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>44800</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Small (6 lines)</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>44917</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Medium (5 lines)</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>44802</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Large (4 lines)</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>44915</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Very Large (3 lines)</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>44803</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Extra Large (2 lines)</Name>
+    <Language>English</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40965</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>SpellCheck Large UK</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+  <Applet>
+    <AppID>40983</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Thesaurus Large UK</Name>
+    <Language>English (UK)</Language>
+  </Applet>
+
+   <AppletSetting>
+    <AppID>0</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>20</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>System UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Startup SmartApplet</DisplayName>
+      <SettingValue>40960</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Auto Repeat</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Sticky Keys</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Keyboard Layout</DisplayName>
+      <SettingValue>QWERTY</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Restricted Number</ControlType>
+      <DisplayName>Idle Time</DisplayName>
+      <SettingValue>4</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Slow Keys</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Restricted Number</ControlType>
+      <DisplayName>Slow Key Delay</DisplayName>
+      <SettingValue>0</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Reset System font to default</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Transfer Speed</DisplayName>
+      <SettingValue>Fast</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>IR Transfer Speed</DisplayName>
+      <SettingValue>Fastest</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Password</ControlType>
+      <DisplayName>Master Password</DisplayName>
+      <SettingValue>think</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Printer Selection</DisplayName>
+      <SettingValue>HP LaserJet/DeskJet, Lexmark Laser</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Two button on mode</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Speech Enabled</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40960</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>4</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>AlphaWord Plus UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Passwords Enabled</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Password</ControlType>
+      <DisplayName>File Passwords</DisplayName>
+      <SettingValue>write</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Restricted Number</ControlType>
+      <DisplayName>Maximum File size (in characters)</DisplayName>
+      <SettingValue>51200</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Restricted Number</ControlType>
+      <DisplayName>Minimum File size (in characters)</DisplayName>
+      <SettingValue>512</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Show Marks</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Delete all files</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40963</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>KAZ Typing Tutor</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40967</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>55</BuildRevision>
+    <Name>Control Panel UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40966</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>49</BuildRevision>
+    <Name>Beamer</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Permit Send</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Warn if overwriting clipboard</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Send to Palm device as ALPHAWORD file</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Require master password</DisplayName>
+      <SettingValue>Off</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40962</AppID>
+    <MajorRevision>3</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>50</BuildRevision>
+    <Name>Calculator</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40999</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>5</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Text2Speech Updater UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>44800</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Small (6 lines)</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>44917</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Medium (5 lines)</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>44802</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Large (4 lines)</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>44915</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Very Large (3 lines)</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>44803</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Neo Font - Extra Large (2 lines)</Name>
+    <Language>English</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40965</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>SpellCheck Large UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Allow adding words to dictionary</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Delete user dictionary</DisplayName>
+      <SettingValue>On</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40983</AppID>
+    <MajorRevision>1</MajorRevision>
+    <MinorRevision>0</MinorRevision>
+    <BuildRevision>32</BuildRevision>
+    <Name>Thesaurus Large UK</Name>
+    <Language>English (UK)</Language>
+    <Checked>Yes</Checked>
+    <Setting>
+      <Checked>Yes</Checked>
+      <ControlType>Selection</ControlType>
+      <DisplayName>Disable this SmartApplet</DisplayName>
+      <SettingValue>No</SettingValue>
+    </Setting>
+  </AppletSetting>
+
+  <AppletSetting>
+    <AppID>40964</AppID>
+  </AppletSetting>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>1</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>2</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>3</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>4</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>5</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>6</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>7</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+  <File>
+    <AppID>40960</AppID>
+    <Number>8</Number>
+    <Checked>No</Checked>
+    <Data></Data>
+  </File>
+
+</ASMConfig>

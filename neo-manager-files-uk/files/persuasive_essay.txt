@@ -1,0 +1,36 @@
+<form>
+PERSUASIVE ESSAY RUBRIC
+IDEAS
+[ ] Topic is focused.
+[ ] Writer is obviously passionate about the topic.
+[ ] The writer uses little-known facts to entice the reader.
+ 
+ORGANIZATION
+[ ] The opening sentence clearly identifies the issue and the writer's position..
+[ ] The writer addresses a specific audience.
+[ ] The writer lists at least three reasons to support his or her argument.
+[ ] Each following paragraph further describes and explains one of the reasons.
+[ ] The concluding paragraph restates the issue and calls the reader to action.
+
+VOICE
+[ ] The writer's passion shines through.
+[ ] The writer shows why the reader needs to know care about the topic.
+[ ] The writer includes actual stories to create a "human" element to the argument.
+
+WORD CHOICE
+[ ] The writer selects words appropriate for the audience.
+[ ] The writer uses lively verbs.
+[ ] The writer uses vivid language to help the reader "see" the issue.
+
+SENTENCE FLUENCY
+[ ] Short, direct sentences are used to drive home a point or call attention to a detail.
+[ ] Elaborated sentences used to explain and persuade.
+[ ] Varied sentence beginnings add interest.
+[ ] Dialog, if used, sounds natural.
+
+CONVENTIONS
+[ ] Spelling is generally correct.
+[ ] Punctuation is accurate.
+[ ] Grammar and usage are correct.
+</form>
+
